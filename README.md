@@ -1,0 +1,1 @@
+This repository demonstrates a race condition bug in HTML where DOM manipulation happens before the element is fully loaded. The bug.html file contains the erroneous code.  The bugSolution.html file provides a corrected version using the DOMContentLoaded event.
